@@ -1,0 +1,39 @@
+Moves/Chess Pieces
+
+1. Making all pieces move respectively
+2. Ensuring that pieces get removed when they are knocked out
+
+GameBoard
+1. Determining a winner/stalemate
+2. Rotating the game board when it's another player's turn
+3. Highlighting the places where the chess pieces can move
+
+Pieces
+1. Checking if the pieces have moved at least once <- Check for pawns to move 2 places
+2. Castling?
+
+Other
+1. Start game with a play button
+2. Load game button
+3. Exit Button
+
+
+Extra Features
+1. Undo, redo actions
+2. Saving, Loading game history
+3. Decorate the border of the chess thing to add options to save the game, etc.
+4. Compiling into an exe to run
+
+
+/*
+Peter Le
+ICS3UR
+Mr. Le
+Jan 22nd, 2018
+Description
+'''
+CODE
+'''
+References - Help and Images
+Example Help
+*/
